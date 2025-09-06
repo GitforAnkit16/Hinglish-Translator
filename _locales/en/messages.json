@@ -1,0 +1,14 @@
+{
+    "extensionName": {
+      "message": "English to Hinglish Translator",
+      "description": "Name of the extension"
+    },
+    "extensionDescription": {
+      "message": "Convert English text to Hinglish for better understanding",
+      "description": "Description of the extension"
+    },
+    "contextMenuTitle": {
+      "message": "Translate to Hinglish",
+      "description": "Context menu item title"
+    }
+  }
